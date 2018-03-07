@@ -1,0 +1,224 @@
+#navibar ul { 
+	margin: 0; 
+	padding: 10px; 
+	list-style-type: none; 
+	text-align: right; 
+	/*background-color: #000; */
+	} 
+ 
+#navibar ul li {  
+	display: inline; 
+	} 
+ 
+#navibar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	/* color: #fff; 
+	background-color: #848484;  */
+	color: white;
+	} 
+ 
+#navibar ul li a:hover { 
+	color: #000; 
+	background-color: #fff;
+	} 
+
+
+body{
+	background:url(../images/recipelist_image.png) no-repeat;
+	position:relative;
+	background-size:cover;
+	font-size:15px;
+	font-family: 'Proxima Nova Alt', Georgia, sans-serif;
+	font-weight: 500;
+}
+
+
+#leftpanel{
+	overflow:hidden;
+    overflow-y: scroll;
+    height: auto;
+    width: 70%;
+    float:left;
+    margin-left: 20px;
+}
+
+#rightpanel{
+	width: 200px;
+	height: auto;
+	float: left;
+	
+}
+
+/* #sub_button1{
+    background-color: white;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    font-size: 6px;
+} */
+
+#sub_button1{
+    background-color: #e67300;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    font-size: 17px;
+}
+
+/* table.alpha{
+	
+    border: 1px solid black;
+    background-color: #F4EDDB;
+    width:93%;
+    border-collapse: separate;
+    border-spacing: 10px;
+    *border-collapse: expression('separate', cellSpacing = '10px');
+    margin: 12px 12px 12px 12px;
+    padding: 12px 12px 12px 12px;
+} */
+
+/* #navibar ul { 
+	margin: 0; 
+	padding: 10px; 
+	list-style-type: none; 
+	text-align: right; 
+	background-color: #000;
+	} 
+ 
+#navibar ul li {  
+	display: inline; 
+	} 
+ 
+#navibar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: #848484; 
+	color: white;
+	} 
+ 
+#navibar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	}  */
+
+#cuisinebar ul {
+	margin: 0; 
+	padding: 10px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #000; 
+	} 
+ 
+#cuisinebar ul li {  
+	display: inline; 
+	} 
+ 
+#cuisinebar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: #E74C3C; 
+	} 
+ 
+#cuisinebar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+
+/*
+table.alpha{
+	
+    border: 1px solid black;
+    background-color: #F4EDDB;
+    border-collapse: separate;
+    border-spacing: 10px;
+    *border-collapse: expression('separate', cellSpacing = '10px');
+    margin: 12px 12px 12px 12px;
+    padding: 12px 12px 12px 12px;
+    
+    margin-bottom: 30px;
+    border-spacing: 15px;
+    
+}
+
+.display_table{
+	overflow:hidden;
+    overflow-y: scroll;
+    heigh: 350px;
+}
+
+
+.noborder{
+	border: 0px
+}
+
+.cuisinies{
+	padding-top: 150px;
+	padding-left: 70px;
+	overflow: hidden;
+}
+
+
+
+
+#navbar ul { 
+	margin: 0; 
+	padding: 10px; 
+	list-style-type: none; 
+	text-align: right; 
+	background-color: #000;
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: #848484; 
+	color: white;
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+
+
+
+
+#cuisinebar ul {
+	margin: 0; 
+	padding: 10px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #000; 
+	} 
+ 
+#cuisinebar ul li {  
+	display: inline; 
+	} 
+ 
+#cuisinebar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff; 
+	background-color: #E74C3C; 
+	} 
+ 
+#cuisinebar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+
+.para{
+	line-height: 30px;
+}
+
+textarea{
+	background-color: #F4EDDB;
+} */
