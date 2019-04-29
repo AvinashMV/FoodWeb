@@ -4,6 +4,8 @@ A project of Semantic Web Course.
 About FoodWeb:
 Nutritious meals with available, ingredients is a challenge for several households today. This project aims at providing a solution to this problem.Presenting FoodWeb, a semantic web application which facilitates looking up recipes and provides cuisine guidelines to the users for the ingredients in hand. It also shows the nutrition facts of the dish. In addition, it provides a list of restaurants nearby based on ingredients entered. 
 
+Technologies Used: Java , J2EE, RDF Queries, XML, JSON, REST APIs, AJAX.
+
 Dependencies:
 1. JDK
 2. Tomcat server
